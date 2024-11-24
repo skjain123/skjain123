@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there! I'm Sunil!
+
+Aspiring to get a PhD in Artificial Intelligence to work on EEG based Brain-Computer Interfaces<br>
+I am a Computer Science Major at Oregon State University and am in my Undergraduate Junior Year!<br>
+Currently in a Psychology Lab concerning Attention and Performance via EEG Data collection.<br>
+--> Using PsyToolKit and Visual Basic to create experiments.<br>
+--> Planning to present research at Psychonomics next year!<br>
+<br>
+Proficient in: C, C++, Python, Javascript, PsyToolKit.
+
+
 
 <!--
 **skjain123/skjain123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
